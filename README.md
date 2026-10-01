@@ -6,15 +6,17 @@ A 100-day LeetCode challenge focused on solving problems consistently in Java.
 
 | Category | Solved | Target |
 |----------|--------|--------|
-| Easy | 1 | 50 |
+| Easy | 4 | 50 |
 | Medium | 0 | 35 |
 | Hard | 0 | 15 |
-| Total | 1 | 100 |
+| Total | 4 | 100 |
 
 ## Completed Problems
 
 - [x] #9 — Palindrome Number
-- [ ] #231 — Power of Two
+- [x] #13 — Roman to Integer
+- [x] #191 — Number of 1 Bits
+- [x] #231 — Power of Two
 
 ## Challenge Rules
 
